@@ -1,6 +1,24 @@
 [
   {
     "program": "Тест 123",
+    "start": "2026-05-13T00:00",
+    "end": "2026-05-13T01:00",
+    "image": "13-05-2026-7aOwXPxc9Q.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "Football Live 1",
+        "note": "Петро 🎙️🇺🇦"
+      },
+      {
+        "id": "2",
+        "channel": "Football Live 2",
+        "note": "4К"
+      }
+    ]
+  },
+  {
+    "program": "Тест 123",
     "start": "2026-05-13T00:48",
     "end": "2026-05-13T01:48",
     "image": "13-05-2026-7cnVK1m6tV.png",
