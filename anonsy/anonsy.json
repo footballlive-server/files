@@ -82,5 +82,23 @@
         "note": "123"
       }
     ]
+  },
+  {
+    "program": "Тест 123",
+    "start": "2026-05-13T00:00",
+    "end": "2026-05-13T01:00",
+    "image": "13-05-2026-7cRipUOTav.png",
+    "channels": [
+      {
+        "channel": "Football Live 1",
+        "note": "Петро 🎙️🇺🇦"
+      },
+      {
+        "channel": "Football Live 2",
+        "note": "Руслан Лень 🎙️🇺🇦"
+      }
+    ],
+    "toggle1": false,
+    "toggle2": false
   }
 ]
