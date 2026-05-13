@@ -1,5 +1,18 @@
 [
   {
+    "program": "Тест url",
+    "start": "2026-05-13T14:00",
+    "end": "2026-05-13T15:00",
+    "image": "13-05-2026-44UNJipUb9.png",
+    "channels": [
+      {
+        "id": "2",
+        "channel": "Football Live 2",
+        "note": "Тест url"
+      }
+    ]
+  },
+  {
     "program": "Тест 12345678",
     "start": "2026-05-13T13:40",
     "end": "2026-05-13T14:40",
