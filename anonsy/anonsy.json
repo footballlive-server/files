@@ -1,5 +1,18 @@
 [
   {
+    "program": "Тест 123",
+    "start": "2026-05-14T08:00",
+    "end": "2026-05-14T10:00",
+    "image": "14-05-2026-GxQD1s4vhm.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "Football Live 1",
+        "note": "123"
+      }
+    ]
+  },
+  {
     "program": "Тест 111",
     "start": "2026-05-14T09:00",
     "end": "2026-05-14T10:00",
