@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "logo": "on",
+    "logo": "off",
     "Top": "3.5%",
     "Right": "5.2%",
     "Width": "14%"
@@ -22,7 +22,7 @@
   },
   {
     "id": 4,
-    "logo": "on",
+    "logo": "off",
     "Top": "3.5%",
     "Right": "5.2%",
     "Width": "14%"
