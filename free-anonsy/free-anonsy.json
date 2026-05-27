@@ -1,5 +1,18 @@
 [
   {
+    "program": "",
+    "start": "",
+    "end": "",
+    "image": "27-05-2026-sYfSYveZpD.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "betking live 1",
+        "note": ""
+      }
+    ]
+  },
+  {
     "program": "Тестова програма 1",
     "start": "2026-05-14T09:57",
     "end": "2026-05-14T10:57",
