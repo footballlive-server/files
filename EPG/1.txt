@@ -1,5 +1,7 @@
 EPG = YES
 
+{NaN-NaN-NaN NaN:NaN NaN-NaN-NaN NaN:NaN}
+
 Тестова програма 1
 {14-05-2026 09:57 14-05-2026 10:57}
 
