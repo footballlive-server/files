@@ -1,5 +1,23 @@
 [
   {
+    "program": "Тест 123",
+    "start": "2026-06-02T09:37",
+    "end": "2026-06-02T12:37",
+    "image": "02-06-2026-biATPVUlAk.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "betking live 1",
+        "note": "1"
+      },
+      {
+        "id": "2",
+        "channel": "betking live 2",
+        "note": "2"
+      }
+    ]
+  },
+  {
     "program": "Норвегія - Швеція",
     "start": "2026-06-02T09:30",
     "end": "2026-06-02T10:30",
