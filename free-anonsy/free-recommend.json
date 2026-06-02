@@ -1,10 +1,7 @@
 [
   {
     "image": "02-06-2026-biATPVUlAk.png",
-    "id": [
-      "1",
-      "2"
-    ]
+    "id": "1"
   },
   {
     "image": "02-06-2026-DS0bEz2o5c.png",
@@ -33,9 +30,5 @@
   {
     "image": "27-05-2026-sYfSYveZpD.png",
     "id": "1"
-  },
-  {
-    "image": "28-05-2026_7LYDahiQRn.png",
-    "url": "https://example.com"
   }
 ]
