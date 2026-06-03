@@ -1,5 +1,28 @@
 [
   {
+    "program": "Тест\nТестовий опис",
+    "start": "2026-06-03T09:35",
+    "end": "2026-06-03T10:35",
+    "image": "03-06-2026-xJcjhmlZHY.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "Football Live 1",
+        "note": "123"
+      },
+      {
+        "id": "2",
+        "channel": "Football Live 2",
+        "note": "123"
+      },
+      {
+        "id": "3",
+        "channel": "Football Live 3",
+        "note": "123"
+      }
+    ]
+  },
+  {
     "program": "Тест 123",
     "start": "2026-06-02T09:37",
     "end": "2026-06-02T12:37",
