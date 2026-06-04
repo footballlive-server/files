@@ -1,5 +1,28 @@
 [
   {
+    "program": "123",
+    "start": "2026-06-04T12:16",
+    "end": "2026-06-04T13:16",
+    "image": "04-06-2026-p7GlHWsyGZ.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "Football Live 1",
+        "note": ""
+      },
+      {
+        "id": "2",
+        "channel": "Football Live 2",
+        "note": ""
+      },
+      {
+        "id": "3",
+        "channel": "Football Live 3",
+        "note": ""
+      }
+    ]
+  },
+  {
     "program": "Тест\n123",
     "start": "2026-06-04T10:21",
     "end": "2026-06-04T11:21",
