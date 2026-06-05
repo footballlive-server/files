@@ -1,228 +1,50 @@
 [
   {
-    "program": "Крістал пелес - Райо Вальєкано",
-    "start": "2026-06-04T12:00",
-    "end": "2026-06-04T14:00",
-    "image": "04-06-2026-B9iMET6m6l.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "Петро 🎙️🇺🇦"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "Руслан Лень 🎙️🇺🇦"
-      }
-    ]
-  },
-  {
-    "program": "Тест 123",
-    "start": "2026-06-04T12:25",
-    "end": "2026-06-04T13:25",
     "image": "04-06-2026-iATu8vC4jf.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": ""
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": ""
-      },
-      {
-        "id": "3",
-        "channel": "Football Live 3",
-        "note": ""
-      }
-    ]
+    "program": "Тест 123"
   },
   {
-    "program": "123",
-    "start": "2026-06-04T12:16",
-    "end": "2026-06-04T13:16",
+    "image": "04-06-2026-B9iMET6m6l.png",
+    "program": "Крістал пелес - Райо Вальєкано"
+  },
+  {
     "image": "04-06-2026-p7GlHWsyGZ.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": ""
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": ""
-      },
-      {
-        "id": "3",
-        "channel": "Football Live 3",
-        "note": ""
-      }
-    ]
+    "program": "123"
   },
   {
-    "program": "Тест\n123",
-    "start": "2026-06-04T10:21",
-    "end": "2026-06-04T11:21",
     "image": "04-06-2026-On5S41jH8x.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "1"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "2"
-      },
-      {
-        "id": "3",
-        "channel": "Football Live 3",
-        "note": "3"
-      }
-    ]
+    "program": "Тест\n123"
   },
   {
-    "program": "123",
-    "start": "2026-06-03T13:21",
-    "end": "2026-06-03T12:21",
     "image": "03-06-2026-aLQ72nX2Nh.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "123"
-      }
-    ]
+    "program": "123"
   },
   {
-    "program": "Тест",
-    "start": "2026-06-03T13:20",
-    "end": "2026-06-03T15:20",
     "image": "03-06-2026-LVrK7PTvXi.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "123"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "123"
-      },
-      {
-        "id": "3",
-        "channel": "Football Live 3",
-        "note": "123"
-      }
-    ]
+    "program": "Тест"
   },
   {
-    "program": "Тест\nТестовий опис",
-    "start": "2026-06-03T09:35",
-    "end": "2026-06-03T10:35",
     "image": "03-06-2026-xJcjhmlZHY.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "123"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "123"
-      },
-      {
-        "id": "3",
-        "channel": "Football Live 3",
-        "note": "123"
-      }
-    ]
+    "program": "Тест\nТестовий опис"
   },
   {
-    "program": "Тест 123",
-    "start": "2026-06-02T09:37",
-    "end": "2026-06-02T12:37",
     "image": "02-06-2026-biATPVUlAk.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "1"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "2"
-      }
-    ]
+    "program": "Тест 123"
   },
   {
-    "program": "Норвегія - Швеція",
-    "start": "2026-06-02T09:30",
-    "end": "2026-06-02T10:30",
     "image": "02-06-2026-DS0bEz2o5c.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "Петро 🎙️🇺🇦"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "Руслан Лень 🎙️🇺🇦"
-      }
-    ]
+    "program": "Норвегія - Швеція"
   },
   {
-    "program": "Тестова програма",
-    "start": "2026-06-01T17:00",
-    "end": "2026-06-01T18:00",
     "image": "01-06-2026-7u9YkulGxk.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "Петро 🎙️🇺🇦"
-      },
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "4К"
-      }
-    ]
+    "program": "Тестова програма"
   },
   {
-    "program": "🇨🇳 Сіюй Ван - 🇺🇦 Юлія Стародубцева",
-    "start": "2026-05-29T12:00",
-    "end": "2026-05-29T14:00",
     "image": "29-05-2026-xdrvzuRpli.png",
-    "channels": [
-      {
-        "id": "2",
-        "channel": "Football Live 2",
-        "note": "🎙️🇺🇦"
-      }
-    ]
+    "program": "🇨🇳 Сіюй Ван - 🇺🇦 Юлія Стародубцева"
   },
   {
-    "program": "🇺🇦 Марта Костюк - 🇨🇭 Вікторія Голубич",
-    "start": "2026-05-29T12:00",
-    "end": "2026-05-29T14:00",
     "image": "29-05-2026-qAvxz5VF4x.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "Football Live 1",
-        "note": "Руслан Лень 🎙️🇺🇦"
-      }
-    ]
+    "program": "🇺🇦 Марта Костюк - 🇨🇭 Вікторія Голубич"
   }
 ]
