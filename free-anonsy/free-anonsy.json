@@ -1,100 +1,26 @@
 [
   {
-    "program": "Крістал пелес - Райо Вальєкано",
-    "start": "2026-06-04T12:00",
-    "end": "2026-06-04T14:00",
     "image": "04-06-2026-B9iMET6m6l.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "betking live 1",
-        "note": "Петро 🎙️🇺🇦"
-      },
-      {
-        "id": "2",
-        "channel": "betking live 2",
-        "note": "Руслан Лень 🎙️🇺🇦"
-      }
-    ]
+    "program": "Крістал пелес - Райо Вальєкано"
   },
   {
-    "program": "Тест 123",
-    "start": "2026-06-02T09:37",
-    "end": "2026-06-02T12:37",
     "image": "02-06-2026-biATPVUlAk.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "betking live 1",
-        "note": "1"
-      },
-      {
-        "id": "2",
-        "channel": "betking live 2",
-        "note": "2"
-      }
-    ]
+    "program": "Тест 123"
   },
   {
-    "program": "Норвегія - Швеція",
-    "start": "2026-06-02T09:30",
-    "end": "2026-06-02T10:30",
     "image": "02-06-2026-DS0bEz2o5c.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "betking live 1",
-        "note": "Петро 🎙️🇺🇦"
-      },
-      {
-        "id": "2",
-        "channel": "betking live 2",
-        "note": "Руслан Лень 🎙️🇺🇦"
-      }
-    ]
+    "program": "Норвегія - Швеція"
   },
   {
-    "program": "Тестова програма",
-    "start": "2026-06-01T17:00",
-    "end": "2026-06-01T18:00",
     "image": "01-06-2026-7u9YkulGxk.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "betking live 1",
-        "note": "Петро 🎙️🇺🇦"
-      },
-      {
-        "id": "2",
-        "channel": "betking live 2",
-        "note": "4K"
-      }
-    ]
+    "program": "Тестова програма"
   },
   {
-    "program": "🇨🇳 Сіюй Ван - 🇺🇦 Юлія Стародубцева",
-    "start": "2026-05-29T12:00",
-    "end": "2026-05-29T14:00",
     "image": "29-05-2026-xdrvzuRpli.png",
-    "channels": [
-      {
-        "id": "2",
-        "channel": "betking live 2",
-        "note": "🎙️🇺🇦"
-      }
-    ]
+    "program": "🇨🇳 Сіюй Ван - 🇺🇦 Юлія Стародубцева"
   },
   {
-    "program": "🇺🇦 Марта Костюк - 🇨🇭 Вікторія Голубич",
-    "start": "2026-05-29T12:00",
-    "end": "2026-05-29T14:00",
     "image": "29-05-2026-qAvxz5VF4x.png",
-    "channels": [
-      {
-        "id": "1",
-        "channel": "betking live 1",
-        "note": "Руслан Лень 🎙️🇺🇦"
-      }
-    ]
+    "program": "🇺🇦 Марта Костюк - 🇨🇭 Вікторія Голубич"
   }
 ]
