@@ -3,17 +3,9 @@ EPG = YES
 Волейбол. Чоловіки. Ліга націй. Куба - Словенія
 {NaN-NaN-NaN NaN:NaN NaN-NaN-NaN NaN:NaN}
 
-Волейбол. Чоловіки. Ліга націй. Китай - Японія
-{NaN-NaN-NaN NaN:NaN NaN-NaN-NaN NaN:NaN}
 
-Волейбол. Чоловіки. Ліга націй. Китай - Японія
-{NaN-NaN-NaN NaN:NaN NaN-NaN-NaN NaN:NaN}
 
-Волейбол. Чоловіки. Ліга націй. Китай - Японія
-{NaN-NaN-NaN NaN:NaN NaN-NaN-NaN NaN:NaN}
 
-Волейбол. Чоловіки. Ліга націй. Китай - Японія
-{NaN-NaN-NaN NaN:NaN NaN-NaN-NaN NaN:NaN}
 
 
 
