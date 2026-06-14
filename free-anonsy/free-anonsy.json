@@ -1,5 +1,23 @@
 [
   {
+    "program": "UFC Freedom 250",
+    "start": "2026-06-15T03:00",
+    "end": "2026-06-15T06:00",
+    "image": "15-06-2026-3FK6MrMynt.png",
+    "channels": [
+      {
+        "id": "1",
+        "channel": "betking live 1",
+        "note": ""
+      },
+      {
+        "id": "4",
+        "channel": "betking live 4",
+        "note": ""
+      }
+    ]
+  },
+  {
     "program": "Волейбол. Чоловіки. Ліга націй. Німеччина - Франція",
     "start": "2026-06-14T18:00",
     "end": "2026-06-14T20:00",
