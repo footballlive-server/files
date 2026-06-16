@@ -1,5 +1,18 @@
 [
   {
+    "program": "Чемпіонат Світу\nАвстрія - Йорданія",
+    "start": "2026-06-17T01:00",
+    "end": "2026-06-17T03:00",
+    "image": "17-06-2026-uP4lUy8rN3.png",
+    "channels": [
+      {
+        "id": "3",
+        "channel": "betking live 3",
+        "note": "🎙️🇺🇦"
+      }
+    ]
+  },
+  {
     "program": "UFC Freedom 250",
     "start": "2026-06-15T03:00",
     "end": "2026-06-15T06:00",
