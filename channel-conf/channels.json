@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "logo": "on",
+    "logo": "off",
     "Top": "3.5%",
     "Right": "5.2%",
     "Width": "14%"
   },
   {
     "id": 2,
-    "logo": "on",
+    "logo": "off",
     "Top": "3.5%",
     "Right": "5.2%",
     "Width": "14%"
   },
   {
     "id": 3,
-    "logo": "off",
+    "logo": "on",
     "Top": "3.5%",
     "Right": "5.2%",
     "Width": "14%"
