@@ -3,9 +3,9 @@
     "id": 1,
     "logo": "on",
     "qr-code": "off",
-    "Top": "1%",
-    "Right": "-11%",
-    "Width": "43%"
+    "Top": "-1%",
+    "Right": "-12%",
+    "Width": "46%"
   },
   {
     "id": 2,
@@ -19,16 +19,16 @@
     "id": 3,
     "logo": "on",
     "qr-code": "off",
-    "Top": "1%",
-    "Right": "-11%",
-    "Width": "43%"
+    "Top": "-1%",
+    "Right": "-12%",
+    "Width": "46%"
   },
   {
     "id": 4,
     "logo": "on",
     "qr-code": "off",
-    "Top": "1%",
-    "Right": "-11%",
-    "Width": "43%"
+    "Top": "-1%",
+    "Right": "-12%",
+    "Width": "46%"
   }
 ]
