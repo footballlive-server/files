@@ -11,24 +11,24 @@
     "id": 2,
     "logo": "on",
     "qr-code": "off",
-    "Top": "3%",
+    "Top": "1%",
     "Right": "-11%",
-    "Width": "40%"
+    "Width": "43%"
   },
   {
     "id": 3,
     "logo": "on",
     "qr-code": "off",
-    "Top": "3%",
+    "Top": "1%",
     "Right": "-11%",
-    "Width": "40%"
+    "Width": "43%"
   },
   {
     "id": 4,
     "logo": "on",
     "qr-code": "off",
-    "Top": "3%",
+    "Top": "1%",
     "Right": "-11%",
-    "Width": "40%"
+    "Width": "43%"
   }
 ]
